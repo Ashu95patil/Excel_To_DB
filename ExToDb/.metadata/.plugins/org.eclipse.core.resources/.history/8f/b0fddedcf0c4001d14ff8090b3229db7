@@ -1,0 +1,6 @@
+package com.happytech.Product.repo;
+
+
+public interface ProductRepo extends JpaRepository<Product,Integer>{
+
+}

@@ -1,0 +1,79 @@
+2023-03-17 23:51:38,083 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-17 23:52:30,122 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.happytech:Product:0.0.1-SNAPSHOT @ C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\pom.xml.
+2023-03-17 23:52:36,546 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/main/java
+2023-03-17 23:52:36,548 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2023-03-17 23:52:36,644 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2023-03-17 23:52:36,747 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/test/java
+2023-03-17 23:52:42,060 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2023-03-17 23:52:45,783 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 23:52:45,810 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 23:52:45,839 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-17 23:53:50,042 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 23:53:50,052 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 23:53:50,056 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-17 23:55:56,778 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 23:55:56,780 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-17 23:57:12,192 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 23:57:12,212 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 23:57:12,215 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-17 23:59:50,506 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 23:59:50,561 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 23:59:50,564 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:10:49,034 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-18 00:10:49,966 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.happytech:Product:0.0.1-SNAPSHOT @ C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\pom.xml.
+2023-03-18 00:10:51,526 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/main/java
+2023-03-18 00:10:51,528 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2023-03-18 00:10:51,528 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2023-03-18 00:10:51,529 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/test/java
+2023-03-18 00:10:52,238 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-03-18 00:10:54,969 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:10:54,995 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:10:54,999 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:12:38,034 [Worker-16: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:12:38,112 [Worker-16: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:12:38,115 [Worker-16: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:14:13,005 [Worker-19: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:14:13,132 [Worker-19: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:14:13,135 [Worker-19: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:31:19,841 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-18 00:31:21,159 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.happytech:Product:0.0.1-SNAPSHOT @ C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\pom.xml.
+2023-03-18 00:31:22,800 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/main/java
+2023-03-18 00:31:22,801 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2023-03-18 00:31:22,801 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2023-03-18 00:31:22,802 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/test/java
+2023-03-18 00:31:23,443 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-03-18 00:31:26,805 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:31:26,826 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:31:26,830 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:32:02,267 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-03-18 00:33:44,098 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.happytech:Product:0.0.1-SNAPSHOT @ C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\pom.xml.
+2023-03-18 00:33:48,347 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:33:48,348 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:33:48,354 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:33:53,250 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:33:53,278 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:33:53,283 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:34:22,772 [Worker-35: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:34:22,897 [Worker-35: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:34:22,900 [Worker-35: Launching Product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:36:57,201 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:36:57,392 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:36:57,395 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:37:43,876 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:37:43,923 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:37:43,925 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:38:13,209 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:38:13,343 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:38:13,345 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:39:53,260 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:39:53,391 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:39:53,394 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:49:05,788 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:49:05,865 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:49:05,869 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:57:31,731 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:57:31,803 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:57:31,858 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
+2023-03-18 00:57:55,153 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-18 00:57:55,200 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-18 00:57:55,202 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\morek\Dropbox\PC\Desktop\ExToDb\Product\src\test\resources
